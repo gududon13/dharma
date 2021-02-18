@@ -1,4 +1,4 @@
-# PROOF(pramana) CPL REQUIRED : 0,1,1 
+# PROOF(pramana) CPL REQUIRED : 2
 
 A guide for living in this world . by one having thousands brain , thousands eye and thousands of leg simply by humans for humans. with collective intelligence 
 
