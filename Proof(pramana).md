@@ -3,7 +3,7 @@
 A guide for living in this world . by one having thousands brain , thousands eye and thousands of leg simply by humans for humans. with collective intelligence 
 
 
-# for Any thing to modify on this repo . you must supply at least one proof . out of 3(can be increased using proof to increase the number of proof (bootstrapping))
+
    # PROOF 1
    # PRACTICAL PROOF (Sanskrit :- pratakshya)
       description:
@@ -19,7 +19,7 @@ A guide for living in this world . by one having thousands brain , thousands eye
    description :
     1) The fact we can see and can convince
 
-Example : When there is smoke high chance of being fire 
+     Example : When there is smoke high chance of being fire 
           When sky getting clouder high chance of rain.
            #TYPE .
              1) past guess (guessing things that passed)
